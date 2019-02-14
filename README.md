@@ -6,4 +6,4 @@
 ![image](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
 
-# 原文见公众号
+原文见公众号，原文跳转---![点这里]（）
